@@ -4,6 +4,7 @@
 - $\mathrm {Rust}$
 - $\LaTeX$
 - $\mathrm {Mathematica}$
+- $\mathrm {Julia}$
 
 $${\Huge \textrm{Music}}$$
 <div align="center">
