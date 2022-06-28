@@ -5,6 +5,7 @@
 - $\LaTeX$
 - $\mathrm {Mathematica}$
 - $\mathrm {Julia}$
+- $\mathrm {Haskell}$
 
 $${\Huge \textrm{Music}}$$
 <div align="center">
